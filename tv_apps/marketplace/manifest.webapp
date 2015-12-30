@@ -11,7 +11,7 @@
     "launch_path": "index.html",
     "appcache_path": "manifest.appcache",
     "name": "Marketplace",
-    "origin": "app://marketplace.allizom.org",
+    "origin": "app://marketplace.firefox.com",
     "type": "web",
-    "version": "20151225.153428"
+    "version": "20151230.174550"
 }
