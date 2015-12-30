@@ -19,6 +19,7 @@
   },
   "orientation": "landscape",
   "permissions": {
+    "moz-extremely-unstable-and-will-change-webcomponents":{},
     "settings": { "access": "readwrite" }
   }
 }
