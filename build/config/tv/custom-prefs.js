@@ -26,3 +26,4 @@ user_pref('remotecontrol.service.pairing_required', true);
 user_pref('remotecontrol.client_page.prepath',
           'app://remote-control-client.gaiamobile.org');
 user_pref('remotecontrol.client_page.blacklist', '/client.html,/pairing.html');
+user_pref('dom.testing.tv_mock_data', '');

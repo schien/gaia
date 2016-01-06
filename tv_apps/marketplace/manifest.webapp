@@ -10,7 +10,7 @@
     },
     "launch_path": "index.html",
     "appcache_path": "manifest.appcache",
-    "name": "Marketplace",
+    "name": "Web Apps",
     "origin": "app://marketplace.firefox.com",
     "type": "web",
     "version": "20151231.164211"
